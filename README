@@ -1,0 +1,7 @@
+Shiraz Yaacob - 312483456
+Dekel Binyamin - 204845648
+
+IdcDm - Conatins main function and logic of downloader.
+DataChunk - Object wraper for the data with managment information.
+FileWriter - Handles writing into file and metadata managment.
+RangeGetter - Handles downloading range of file from server.
